@@ -11,7 +11,7 @@ This repository holds the codes for my group projects for the class "Applied Mac
 
 
    * models:
-      *  **non-tree** based models: 
+      *  **Non-Tree** based models: 
       
           SVM
           
@@ -19,7 +19,7 @@ This repository holds the codes for my group projects for the class "Applied Mac
           
           KNN
       
-      *  **tree** based models: 
+      *  **Tree** based models: 
           
           decision tree
           
@@ -39,7 +39,7 @@ This repository holds the codes for my group projects for the class "Applied Mac
    * Do text classification on a dataset of complaints about traffic conditions to the city of Boston.
    
    * models:
-      *  Logistic Regression classification model using a N-gram approach:
+      *  **Logistic Regression** classification model using a N-gram approach:
           
           Tokenization
       
@@ -48,7 +48,7 @@ This repository holds the codes for my group projects for the class "Applied Mac
           Restricting the Vocabulary (e.g. stop_words, Infrequent Words,Tfidf)     
 
       
-      *  Clustering to see how well clusters that match well with some of the ground truth labels
+      *  **Clustering** to see how well clusters that match well with some of the ground truth labels
           
           LDA
           
