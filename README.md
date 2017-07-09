@@ -7,7 +7,7 @@ This repository holds the codes for my group projects for the class "Applied Mac
 ### Projects:
 
 + #### Bank Direct Marketing Campaign Prediction:
-   * Predicted whether a promotion call will result in a subscription by given the customer’s information and call history.
+   * Predict whether a promotion call will result in a subscription by given the customer’s information and call history.
 
 
    * models:
@@ -34,6 +34,28 @@ This repository holds the codes for my group projects for the class "Applied Mac
           Poorman Stacking
       
           Weighted Ensemble Model
+
++ #### Text Classification Project:
+   * Do text classification on a dataset of complaints about traffic conditions to the city of Boston.
+   
+   * models:
+      *  Logistic Regression classification model using a N-gram approach:
+          
+          Tokenization
+      
+          Word Normalization
+          
+          Restricting the Vocabulary (e.g. stop_words, Infrequent Words,Tfidf)     
+
+      
+      *  Clustering to see how well clusters that match well with some of the ground truth labels
+          
+          LDA
+          
+          NMF
+          
+          K-Means 
+ 
 
 
 
