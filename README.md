@@ -7,6 +7,7 @@ This repository holds the codes for my group projects for the class "Applied Mac
 ### Projects:
 
 + #### Bank Direct Marketing Campaign Prediction:
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
    * Predict whether a promotion call will result in a subscription by given the customer’s information and call history.
 
 
