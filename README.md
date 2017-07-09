@@ -6,8 +6,8 @@ This repository holds the codes for my group projects for the class "Applied Mac
 
 ### Projects:
 
-+ #### Bank Direct Marketing Campaign Prediction:
-[heading](Machine-Learning-Projects)
++ #### [Bank Direct Marketing Campaign Prediction](https://github.com/Minghong212/Machine-Learning-Projects/tree/master/Bank%20Direct%20Marketing%20Campaign%20Prediction)
+
    * Predict whether a promotion call will result in a subscription by given the customer’s information and call history.
 
 
