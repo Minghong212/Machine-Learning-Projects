@@ -56,6 +56,12 @@ This repository holds the codes for my group projects for the class "Applied Mac
           NMF
           
           K-Means 
++ #### [Sequence to Sequence Modeling Project](https://github.com/Minghong212/Machine-Learning-Projects/tree/master/Text%20Classification%20Project):
+   * Apply NLP algorithm to perform a summarization task with Tensorflow and Keras to summary first sentences of news articles on Google Cloud(~6MB)
+   
+   * models:
+     *  Unidirectional LSTM Encoder Decoder
+     *  Unidirectional LSTM Encoder Decoder With Attention 
  
 
 
